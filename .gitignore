@@ -1,4 +1,4 @@
 # 忽略index.css
 index.css
-#忽略demo文件下的所有
-demo/
+#忽略test文件下的所有
+/test
